@@ -1,6 +1,6 @@
 # SocietyEventPlanner
 An automatic event planner system to help a university society choose a set of activities that has the highest enjoyment value while complying with time constraints.
-
+ 
 How to Run the Program:
 Event planner is run by typing into the terminal:
 python event_planner.py <input_file>
