@@ -16,18 +16,18 @@ Version of python used when writing and testing the program: Python 3.13.5
 Libraries required: standard python libraries only:
 sys, time and itertools
 
-File Structure:
-|--- Documents/
-|      |--- Report.pdf
-|
-|--- Code/
-|      |--- event_planner.py
-|      |--- README.txt
-|
-|--- Input_Files/
-|      |--- input_small.txt
-|      |--- input_medium.txt
-|      |--- input_large.txt
-|
-|--- Presentation/
-       |--- Presentation_Slides.pdf
+File Structure:  
+|--- Documents/  
+|      |--- Report.pdf  
+|  
+|--- Code/  
+|      |--- event_planner.py  
+|      |--- README.txt  
+|  
+|--- Input_Files/  
+|      |--- input_small.txt  
+|      |--- input_medium.txt  
+|      |--- input_large.txt  
+|  
+|--- Presentation/  
+       |--- Presentation_Slides.pdf  
