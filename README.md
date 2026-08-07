@@ -4,12 +4,12 @@ An automatic event planner system to help a university society choose a set of a
 How to Run the Program:
 Event planner is run by typing into the terminal:
 python event_planner.py <input_file>
-where <input_file> is the name of the input file in double quotation marks (��).
+where <input_file> is the name of the input file in double quotation marks ("").
 For example:
-python event_planner.py �input_small.txt�
-If event_planner.py or the input_file are stored in another folder then type the name of the folder before event_planner.py or input_file with a �/� separating them.
+python event_planner.py <input_small.txt>
+If event_planner.py or the input_file are stored in another folder then type the name of the folder before event_planner.py or input_file with a '/' separating them.
 For example:
-python Code/event_planner.py �Input_Files/input_small.txt�
+python Code/event_planner.py <Input_Files/input_small.txt>
 
 Dependencies:
 Version of python used when writing and testing the program: Python 3.13.5
